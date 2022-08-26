@@ -1,2 +1,2 @@
 # SPDVRP
-Benchmark instanses and corresponding results
+Benchmark instanses and corresponding result
