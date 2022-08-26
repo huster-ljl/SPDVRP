@@ -23,7 +23,7 @@ instances and signifficantly improves the running times of state-of-the-art algo
 vehicle routing, single commodity, split pickups, split deliveries, branch-price-and-cut,
 label-setting algorithm, exact algorithm
 
-# Istances and results
+# Instances and results
 We considered three classes of test instances, called SA, SB and SC, respectively. In classes SA and
 SC the route duration constraints are used to impose an upper limit on the number of stops on
 each route whereas class SC considers general route duration constraints. Please find from each class the file 
