@@ -1,4 +1,4 @@
-# SPDVRP
+# The Single Commodity Split Pickup and Split Delivery Vehicle Routing Problem (SPDVRP)
 # Abstract
 We present a new exact algorithm to solve a challenging vehicle routing problem with split pickups and deliv-
 eries, named as the Single Commodity Split Pickup and Split Delivery Vehicle Routing Problem (SPDVRP).
