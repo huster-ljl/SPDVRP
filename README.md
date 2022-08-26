@@ -26,5 +26,5 @@ label-setting algorithm, exact algorithm
 # Instances and results
 We considered three classes of test instances, called SA, SB and SC, respectively. In classes SA and
 SC the route duration constraints are used to impose an upper limit on the number of stops on
-each route whereas class SC considers general route duration constraints. Please find from each package the file 
-"README.txt", specific instances, and corresponding results for each instance class.
+each route whereas class SC considers general route duration constraints. Please find 
+"README.txt" file, specific instances, and corresponding results from the package of each class.
