@@ -26,8 +26,7 @@ label-setting algorithm, exact algorithm
 # Instances and results
 We considered three classes of test instances, called SA, SB and SC, respectively. In classes SA and
 SC the route duration constraints are used to impose an upper limit on the number of stops on
-each route whereas class SC considers general route duration constraints. Please find 
-"README.txt" file and specific instances from the package of each class, and find their detailed results under different parameter settings from this paper.
+each route whereas class SC considers general route duration constraints. The specific instances can be found from the package of each class, and their results under different parameter settings are placed in  the package "Result.zip".
 
 # Paper entry
 Jiliu Li, Zhixing Luo, Hu Qin, Roberto Baldacci, Zhou Xu. “A New Exact Algorithm for Single Commodity Vehicle Routing with Split Pickups and Deliveries”. INFORMS Journal On Computing, July 2022 (to appear)
